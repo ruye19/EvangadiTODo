@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:881db75857e8039c7bc88a8ca15ac23113d064f25cd4cb80f142b1af3ba77186
-size 307
+## This repository contains solutions to weekly practice problems from the Evangadi Bootcamp. It serves as a resource for reinforcing concepts covered in the bootcamp.
+
+📌 Overview
+Weekly solutions to coding problems.
+Helps with understanding key concepts through practice.
+Suitable for self-review and improvement.
+🚀 How to Use
+Clone the repository.
+Go through the problems and solutions.
+Try solving them yourself before checking the answers.
+📂 Structure
+Organized by week.
+Each folder contains problem statements and solutions.
+🤝 Contributions
+Feel free to contribute by adding alternative solutions or explanations.
+
